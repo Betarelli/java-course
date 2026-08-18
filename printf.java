@@ -1,6 +1,6 @@
 import java.util.Locale;
 
-public class Aula_1_printf {
+public class printf {
     public static void main(String[] args) {
 
         /*
